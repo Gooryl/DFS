@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/Users/gooryl/Documents/MyProjects/DFS/Header/main.h
+/Users/gooryl/Documents/My_projects/DFS/Header/main.h
 
-/Users/gooryl/Documents/MyProjects/DFS/Source/main.c
+/Users/gooryl/Documents/My_projects/DFS/Source/main.c
 stdio.h
-/Users/gooryl/Documents/MyProjects/DFS/Source/stdio.h
+/Users/gooryl/Documents/My_projects/DFS/Source/stdio.h
 stdlib.h
-/Users/gooryl/Documents/MyProjects/DFS/Source/stdlib.h
+/Users/gooryl/Documents/My_projects/DFS/Source/stdlib.h
 ../Header/main.h
-/Users/gooryl/Documents/MyProjects/DFS/Header/main.h
+/Users/gooryl/Documents/My_projects/DFS/Header/main.h
 

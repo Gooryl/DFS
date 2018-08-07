@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Users/gooryl/Documents/MyProjects/DFS/Source/main.c" "/Users/gooryl/Documents/MyProjects/DFS/cmake-build-debug/CMakeFiles/DFS.dir/Source/main.c.o"
+  "/Users/gooryl/Documents/My_projects/DFS/Source/main.c" "/Users/gooryl/Documents/My_projects/DFS/cmake-build-debug/CMakeFiles/DFS.dir/Source/main.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 

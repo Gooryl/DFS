@@ -103,7 +103,7 @@ void DFS(unsigned char node, unsigned char* pAdjacencyMatrix, unsigned char* pMa
     if (*(pMarksMatrix + node) == TRUE) return;
     *(pMarksMatrix + node) = TRUE;
     printf ("%d -> ", node+1);
-    for (unsigned char i = node ; i < matrixSize; i++)
+    for (unsigned char i = 0 ; i < matrixSize; i++)
     {
         if ( *(pAdjacencyMatrix + node*matrixSize + i) == 1 ) {
             DFS(i, pAdjacencyMatrix, pMarksMatrix, matrixSize);
